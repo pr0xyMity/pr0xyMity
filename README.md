@@ -6,7 +6,7 @@ I'm a Senior Software Developer with 6 years of experience, I have a proven trac
 [![Anurag's GitHub stats](https://stars-self.vercel.app/api?username=pr0xyMity&show_icons=true&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pr0xyMity))
 
 - 🔭 I’m currently working on ZooviChat - The ultimate mobile app designed to help individuals find and bond in long-term relationships. Using personality and moral tests, ZooviChat helps users find their perfect match. Love is a journey, and we're here to support you every step of the way.
-- 🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- 🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - 👯 I’m looking to collaborate on Something Fresh!
 
 - 📫 How to reach me: konrad.trade@gmail.com if you are interested in my CV go to https://konradbarrek.dev page.
