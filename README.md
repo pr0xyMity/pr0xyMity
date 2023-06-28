@@ -15,6 +15,7 @@ I'm a Senior Software Developer with 6 years of experience, I have a proven trac
 
 ### OpenSource contribution
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuestorefront&repo=vue-storefront&show_icons=true&theme=tokyonight)](https://github.com/vuestorefront/vue-storefront)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr0xyMity&repo=sound-of-silence&show_icons=true&theme=tokyonight)](https://github.com/pr0xyMity/sound-of-silence)
 
 ### Skills
 
