@@ -1,12 +1,12 @@
 ## Hi I'm Konrad 👋
 
 ### About
-I'm a Senior Software Developer with 6 years of experience, I have a proven track record of developing top-quality software solutions that meet the needs of businesses and their clients. In addition to my technical skills, I have a passion for teaching and mentoring aspiring developers.
+I'm a Senior Software Developer with 7 years of experience, I have a proven track record of developing top-quality software solutions that meet the needs of businesses and their clients. In addition to my technical skills, I have a passion for teaching and mentoring aspiring developers.
 
 [![Anurag's GitHub stats](https://stars-self.vercel.app/api?username=pr0xyMity&show_icons=true&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pr0xyMity))
 ![Top Langs](https://stars-self.vercel.app/api/top-langs/?username=pr0xyMity&hide=shell,html&theme=tokyonight&langs_count=5&layout=donut&size_weight=0.2&count_weight=0)
 
-- 🔭 I’m currently working on ZooviChat - The ultimate mobile app designed to help individuals find and bond in long-term relationships. Using personality and moral tests, ZooviChat helps users find their perfect match. Love is a journey, and we're here to support you every step of the way.
+- 🔭 I’m currently working on AuriChat - The ultimate mobile app designed to help individuals find and bond in long-term relationships. Using personality and moral tests, ZooviChat helps users find their perfect match. Love is a journey, and we're here to support you every step of the way.
 - 🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - 👯 I’m looking to collaborate on Something Fresh!
 
