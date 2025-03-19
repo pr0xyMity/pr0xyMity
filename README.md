@@ -1,11 +1,9 @@
 ## Hi I'm Konrad 👋
 
 ### About
-I'm a Senior Software Developer with 8 years of experience, I have a proven track record of developing top-quality software solutions that meet the needs of businesses and their clients. In addition to my technical skills, I have a passion for teaching and mentoring aspiring developers.
+I'm a Senior FullStack Software Developer with 8 years of experience, I have a proven track record of developing top-quality software solutions that meet the needs of businesses and their clients. In addition to my technical skills, I have a passion for teaching and mentoring aspiring developers.
 
 - 🔭 I’m currently working on AuriChat - The ultimate mobile app designed to help individuals find and bond in long-term relationships. Using personality and moral tests, AuriChat helps users find their perfect match. Love is a journey, and we're here to support you every step of the way.
-- 👯 I’m looking to collaborate on Something Fresh!
-
 - 📫 How to reach me: konrad.trade@gmail.com if you are interested in my CV go to https://konradbarrek.dev page.
 - ⚡ Fun fact: I've co-founded a scientific club that became the biggest non-profit organization that teaches programming in Poland. https://www.linkedin.com/company/coderscrew/
 
